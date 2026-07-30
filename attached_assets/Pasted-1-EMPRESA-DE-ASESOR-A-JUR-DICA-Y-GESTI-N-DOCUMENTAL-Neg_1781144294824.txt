@@ -1,0 +1,290 @@
+1. EMPRESA DE ASESORÍA JURÍDICA Y GESTIÓN DOCUMENTAL
+Negocio: G&M GESTIÓN LEGAL S.A.S. – Asesoría jurídica, gestión documental y fortalecimiento institucional
+Prompt completo para desarrollo web
+DISEÑO Y ESTÉTICA
+
+Paleta de colores corporativa:
+
+Azul institucional: #072A46
+
+Dorado: #CCB757
+
+Blanco: #FFFFFF
+
+Gris claro de apoyo: #F5F7FA
+
+Tipografía:
+
+Títulos: Cinzel en negrita
+
+Texto: Montserrat
+
+Estilo visual:
+
+Diseño moderno, profesional e institucional
+
+Uso de espacios amplios y secciones bien delimitadas
+
+Animaciones suaves al hacer scroll (fade-in y slide-up)
+
+Íconos minimalistas y elegantes para servicios y beneficios
+
+Fotografía:
+
+Imágenes corporativas de alta calidad relacionadas con gestión documental, asesoría jurídica, entidades públicas, cuerpos de bomberos y trabajo institucional
+
+Usar placeholders de Unsplash o imágenes corporativas reales de la empresa
+
+HERO SECTION
+
+Imagen fullscreen institucional con overlay azul oscuro sutil (40% de opacidad)
+
+Título principal grande:
+
+“Orden documental. Cumplimiento legal. Tranquilidad institucional.”
+
+Subtítulo:
+
+“Asesoría jurídica y gestión documental especializada para entidades públicas, cuerpos de bomberos voluntarios y alcaldías de Colombia.”
+
+Botones CTA:
+
+“Solicitar asesoría” (dorado)
+
+“Conocer servicios” (outline blanco)
+
+Indicador de scroll animado en la parte inferior
+
+QUIÉNES SOMOS
+
+Layout en dos columnas: texto a la izquierda e imagen institucional a la derecha
+
+Incluir:
+
+Presentación de G&M Gestión Legal S.A.S.
+
+Especialización en gestión documental y asesoría jurídica
+
+Enfoque en alcaldías, cuerpos de bomberos y entidades del SNGRD
+
+Principios: legalidad, eficiencia, transparencia y control
+
+Sección de Misión y Visión en tarjetas destacadas
+
+Foto del fundador:
+
+Julio César García Triana
+
+Abogado Especialista en Derecho Administrativo
+
+Breve trayectoria institucional y docente
+
+POR QUÉ ELEGIRNOS
+
+Sección visual con 3-4 tarjetas o columnas destacando:
+
+Experiencia directa en inspección, vigilancia y control bomberil
+
+Conocimiento práctico del marco normativo y administrativo
+
+Acompañamiento jurídico especializado y cercano
+
+Liderazgo docente y fortalecimiento institucional del sector
+
+Usar íconos elegantes y fondos claros con detalles en dorado
+
+SERVICIOS
+1. Gestión documental
+
+Diseñar una sección amplia con tarjetas o acordeones para cada servicio:
+
+Gestión y organización documental
+Digitalización de documentos
+Asesoría en gestión documental
+Apoyo administrativo documental
+
+Cada tarjeta debe incluir:
+
+Título destacado
+
+Breve descripción
+
+Lista de actividades específicas
+
+Ícono representativo
+
+2. Asesoría jurídica especializada
+
+Incluir tarjetas para:
+
+Asesoría jurídica
+Capacitación y formación
+Representación y defensa
+Auditoría legal bomberil
+
+Diseño limpio, profesional y orientado a transmitir confianza y especialización.
+
+MODALIDAD DEL SERVICIO
+
+Sección con dos bloques destacados:
+
+Servicio integral
+Por módulos específicos
+
+Agregar íconos y una breve explicación de cada modalidad.
+
+BENEFICIOS PARA SU INSTITUCIÓN
+
+Diseño en grid de beneficios con iconos:
+
+Cumplimiento normativo
+
+Acceso rápido a la información
+
+Optimización del archivo físico
+
+Mejora de procesos administrativos
+
+Soporte para auditorías
+
+Seguridad y confidencialidad de la información
+
+CÓMO TRABAJAMOS
+
+Crear una sección tipo timeline o pasos numerados con diseño visual elegante:
+
+Diagnóstico inicial
+Plan de trabajo
+Ejecución controlada
+Entrega y seguimiento
+
+Cada paso debe incluir una breve explicación y un ícono representativo.
+
+NUESTRO COMPROMISO
+
+Sección destacada con fondo azul institucional y texto blanco, incluyendo:
+
+Manejo ético y confidencial de la información
+
+Trabajo responsable y profesional
+
+Atención personalizada
+
+Cumplimiento de tiempos y alcances acordados
+
+A QUIÉN ACOMPAÑAMOS
+
+Diseño en tarjetas o íconos institucionales para:
+
+Cuerpos de Bomberos Voluntarios
+
+Alcaldías y entidades municipales
+
+Entidades del SNGRD
+
+Entidades públicas y privadas
+
+LLAMADO A LA ACCIÓN FINAL
+
+Sección impactante con fondo institucional y texto centrado:
+
+Título: “¿Listo para dar el primer paso?”
+
+Texto breve sobre profesionalización jurídica y fortalecimiento institucional
+
+Botón CTA destacado:
+
+“Contáctenos hoy”
+CONTACTO
+
+Sección organizada con:
+
+Teléfonos:
+
+311 285 4346
+
+311 217 7006
+
+Correo:
+
+gmgestionlegalco@gmail.com
+
+Sitio web:
+
+www.gmgestionlegal.com
+
+Formulario de contacto con:
+
+Nombre
+
+Teléfono
+
+Email
+
+Entidad
+
+Mensaje
+
+Botón: “Enviar solicitud”
+
+FOOTER
+
+Fondo azul oscuro (#072A46)
+
+Tres columnas:
+
+Logo y breve descripción
+
+Links rápidos (Inicio, Servicios, Nosotros, Contacto)
+
+Información de contacto y redes sociales
+
+Íconos sociales en dorado
+
+Barra inferior con copyright:
+
+© 2026 G&M Gestión Legal S.A.S. Todos los derechos reservados.
+
+CARACTERÍSTICAS TÉCNICAS
+
+Diseño 100% responsive (mobile-first)
+
+Navbar fijo que se reduce al hacer scroll
+
+Menú hamburguesa animado en móvil
+
+Smooth scroll entre secciones
+
+Lazy loading en imágenes
+
+Formularios con validación básica
+
+Hover effects en botones y enlaces
+
+Optimización de imágenes y rendimiento para carga rápida
+
+Compatibilidad con SEO básico y Google Maps embebido
+
+CONSIDERACIONES MÓVILES
+
+Botones grandes y fáciles de tocar
+
+Formulario de contacto en ancho completo
+
+Secciones en una sola columna
+
+CTA fijo de “Llamar ahora” o “WhatsApp” en dispositivos móviles
+
+RESULTADO ESPERADO
+
+El sitio web debe transmitir:
+
+Profesionalismo institucional
+
+Confianza jurídica
+
+Especialización en gestión documental y sector bomberil
+
+Orden, claridad y transparencia
+
+Facilidad de navegación y contacto inmediato
